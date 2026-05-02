@@ -24,10 +24,7 @@
 ## 🚀 Main Project
 ### 🏢 NSA - National Systems Administration
 
-<p>
-  <img src="https://intranet.sa-nsa.org/img/nsa.png" align="right" width="230"/>
-
-Modular intranet platform for managing internal operations (HR, judicial, civil portal, logistics).
+Modular intranet platform for FiveM roleplay servers — managing staff, judicial records, civil portal, training, inventory and field operations, fully integrated with Discord.
 - 🧩 **Role** : Coordinator & contributing developer  
 - 🛠️ **Tech** : Symfony 8, Doctrine, MySQL, Tailwind, Discord API  
 
@@ -37,7 +34,6 @@ Modular intranet platform for managing internal operations (HR, judicial, civil 
 - 🔗 Coordination between different teams / factions  
 - 🧑‍💼 Management of support units and internal requests  
 - 💡 Contribution to the design and planning of new modules  
-</p>
 ‎ 
 ‎
 
