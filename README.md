@@ -33,9 +33,9 @@ Modular intranet platform for FiveM roleplay servers - managing staff, judicial 
 - 🗄️ Participation in website structure and management  
 - 🔗 Coordination between different teams / factions  
 - 🧑‍💼 Management of support units and internal requests  
-- 💡 Contribution to the design and planning of new modules  
-‎ 
-‎
+- 💡 Contribution to the design and planning of new modules
+
+‎ ‎ 
 
 ## 📚 Other Projects
 ### User Management API (Flask)
