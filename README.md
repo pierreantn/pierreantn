@@ -24,7 +24,7 @@
 ## 🚀 Main Project
 ### 🏢 NSA - National Systems Administration
 
-Modular intranet platform for FiveM roleplay servers — managing staff, judicial records, civil portal, training, inventory and field operations, fully integrated with Discord.
+Modular intranet platform for FiveM roleplay servers - managing staff, judicial records, civil portal, training, inventory and field operations, fully integrated with Discord.
 - 🧩 **Role** : Coordinator & contributing developer  
 - 🛠️ **Tech** : Symfony 8, Doctrine, MySQL, Tailwind, Discord API  
 
